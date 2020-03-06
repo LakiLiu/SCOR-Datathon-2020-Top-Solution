@@ -1,6 +1,8 @@
 # NHANE-CVD-Death-Prediction
 This Project is to predict Cardiovascular Disease (CVD) Death based on NHANE Open data (National Health and Nutrition Examination Survey, https://wwwn.cdc.gov/nchs/nhanes/default.aspx). By adding **Nutrition Dataset**, the model performance is increased by **8%**. This project is awarded as **First Prize** in the SCOR Datathon in Paris, France in February 2020. <br>
 
+
+
 This repo is composed by two parts, Data and JupyterNote scripts. 
 
 **Data:** All the data is crawled from the offical website https://wwwn.cdc.gov/nchs/nhanes/default.aspx by R, with the name of './data.csv'. (This dataset is merged by Morality, Demographics, Occupation, Laboratory, Medical Condition, Medical Examination, Diabete, Smoking, Dietary). The folder <tempdata> is the dataset temporarily saved during the scripts.
