@@ -13,7 +13,7 @@ All the data is crawled from the offical website https://wwwn.cdc.gov/nchs/nhane
 
 ### Model:
 #### A. Classic Models
-1.Gradient Boosting
+1. Gradient Boosting
 2. LGBM
 3. Random Forest
 4. Logistic Rression
