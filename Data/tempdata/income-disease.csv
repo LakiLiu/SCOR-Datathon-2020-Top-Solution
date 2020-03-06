@@ -1,0 +1,151 @@
+annual_household_income,ucod_leading,Nbr
+"$ 0 to $ 4,999",Accidents (unintentional injuries),11
+"$ 0 to $ 4,999",All other causes (residual),78
+"$ 0 to $ 4,999",Alzheimer's disease,3
+"$ 0 to $ 4,999",Cerebrovascular diseases,6
+"$ 0 to $ 4,999",Chronic lower respiratory diseases,3
+"$ 0 to $ 4,999",Diabetes mellitus,7
+"$ 0 to $ 4,999",Disease of heart,30
+"$ 0 to $ 4,999",Influenza and pneumonia,1
+"$ 0 to $ 4,999",Malignant neoplasm,39
+"$ 0 to $ 4,999","Nephritis, nephrotic syndrome and nephrosis",1
+"$ 5,000 to $ 9,999",Accidents (unintentional injuries),29
+"$ 5,000 to $ 9,999",All other causes (residual),268
+"$ 5,000 to $ 9,999",Alzheimer's disease,13
+"$ 5,000 to $ 9,999",Cerebrovascular diseases,30
+"$ 5,000 to $ 9,999",Chronic lower respiratory diseases,36
+"$ 5,000 to $ 9,999",Diabetes mellitus,27
+"$ 5,000 to $ 9,999",Disease of heart,131
+"$ 5,000 to $ 9,999",Influenza and pneumonia,18
+"$ 5,000 to $ 9,999",Malignant neoplasm,108
+"$ 5,000 to $ 9,999","Nephritis, nephrotic syndrome and nephrosis",18
+"$10,000 to $14,999",Accidents (unintentional injuries),26
+"$10,000 to $14,999",All other causes (residual),352
+"$10,000 to $14,999",Alzheimer's disease,24
+"$10,000 to $14,999",Cerebrovascular diseases,48
+"$10,000 to $14,999",Chronic lower respiratory diseases,45
+"$10,000 to $14,999",Diabetes mellitus,25
+"$10,000 to $14,999",Disease of heart,172
+"$10,000 to $14,999",Influenza and pneumonia,18
+"$10,000 to $14,999",Malignant neoplasm,199
+"$10,000 to $14,999","Nephritis, nephrotic syndrome and nephrosis",19
+"$15,000 to $19,999",Accidents (unintentional injuries),20
+"$15,000 to $19,999",All other causes (residual),265
+"$15,000 to $19,999",Alzheimer's disease,17
+"$15,000 to $19,999",Cerebrovascular diseases,26
+"$15,000 to $19,999",Chronic lower respiratory diseases,25
+"$15,000 to $19,999",Diabetes mellitus,17
+"$15,000 to $19,999",Disease of heart,143
+"$15,000 to $19,999",Influenza and pneumonia,11
+"$15,000 to $19,999",Malignant neoplasm,126
+"$15,000 to $19,999","Nephritis, nephrotic syndrome and nephrosis",9
+"$20,000 and Over",Accidents (unintentional injuries),8
+"$20,000 and Over",All other causes (residual),83
+"$20,000 and Over",Alzheimer's disease,4
+"$20,000 and Over",Cerebrovascular diseases,8
+"$20,000 and Over",Chronic lower respiratory diseases,10
+"$20,000 and Over",Diabetes mellitus,5
+"$20,000 and Over",Disease of heart,49
+"$20,000 and Over",Influenza and pneumonia,2
+"$20,000 and Over",Malignant neoplasm,42
+"$20,000 and Over","Nephritis, nephrotic syndrome and nephrosis",4
+"$20,000 to $24,999",Accidents (unintentional injuries),17
+"$20,000 to $24,999",All other causes (residual),294
+"$20,000 to $24,999",Alzheimer's disease,16
+"$20,000 to $24,999",Cerebrovascular diseases,21
+"$20,000 to $24,999",Chronic lower respiratory diseases,23
+"$20,000 to $24,999",Diabetes mellitus,20
+"$20,000 to $24,999",Disease of heart,101
+"$20,000 to $24,999",Influenza and pneumonia,16
+"$20,000 to $24,999",Malignant neoplasm,123
+"$20,000 to $24,999","Nephritis, nephrotic syndrome and nephrosis",8
+"$25,000 to $34,999",Accidents (unintentional injuries),17
+"$25,000 to $34,999",All other causes (residual),331
+"$25,000 to $34,999",Alzheimer's disease,16
+"$25,000 to $34,999",Cerebrovascular diseases,29
+"$25,000 to $34,999",Chronic lower respiratory diseases,36
+"$25,000 to $34,999",Diabetes mellitus,13
+"$25,000 to $34,999",Disease of heart,136
+"$25,000 to $34,999",Influenza and pneumonia,11
+"$25,000 to $34,999",Malignant neoplasm,169
+"$25,000 to $34,999","Nephritis, nephrotic syndrome and nephrosis",14
+"$35,000 to $44,999",Accidents (unintentional injuries),11
+"$35,000 to $44,999",All other causes (residual),221
+"$35,000 to $44,999",Alzheimer's disease,16
+"$35,000 to $44,999",Cerebrovascular diseases,17
+"$35,000 to $44,999",Chronic lower respiratory diseases,15
+"$35,000 to $44,999",Diabetes mellitus,14
+"$35,000 to $44,999",Disease of heart,84
+"$35,000 to $44,999",Influenza and pneumonia,7
+"$35,000 to $44,999",Malignant neoplasm,114
+"$35,000 to $44,999","Nephritis, nephrotic syndrome and nephrosis",7
+"$45,000 to $54,999",Accidents (unintentional injuries),15
+"$45,000 to $54,999",All other causes (residual),173
+"$45,000 to $54,999",Alzheimer's disease,12
+"$45,000 to $54,999",Cerebrovascular diseases,17
+"$45,000 to $54,999",Chronic lower respiratory diseases,14
+"$45,000 to $54,999",Diabetes mellitus,4
+"$45,000 to $54,999",Disease of heart,55
+"$45,000 to $54,999",Influenza and pneumonia,7
+"$45,000 to $54,999",Malignant neoplasm,89
+"$45,000 to $54,999","Nephritis, nephrotic syndrome and nephrosis",8
+"$55,000 to $64,999",Accidents (unintentional injuries),7
+"$55,000 to $64,999",All other causes (residual),67
+"$55,000 to $64,999",Alzheimer's disease,3
+"$55,000 to $64,999",Cerebrovascular diseases,9
+"$55,000 to $64,999",Chronic lower respiratory diseases,9
+"$55,000 to $64,999",Diabetes mellitus,3
+"$55,000 to $64,999",Disease of heart,20
+"$55,000 to $64,999",Influenza and pneumonia,5
+"$55,000 to $64,999",Malignant neoplasm,52
+"$55,000 to $64,999","Nephritis, nephrotic syndrome and nephrosis",1
+"$65,000 to $74,999",Accidents (unintentional injuries),5
+"$65,000 to $74,999",All other causes (residual),57
+"$65,000 to $74,999",Alzheimer's disease,7
+"$65,000 to $74,999",Cerebrovascular diseases,4
+"$65,000 to $74,999",Chronic lower respiratory diseases,1
+"$65,000 to $74,999",Diabetes mellitus,3
+"$65,000 to $74,999",Disease of heart,24
+"$65,000 to $74,999",Influenza and pneumonia,1
+"$65,000 to $74,999",Malignant neoplasm,43
+"$65,000 to $74,999","Nephritis, nephrotic syndrome and nephrosis",2
+"$75,000 and Over",Accidents (unintentional injuries),12
+"$75,000 and Over",All other causes (residual),186
+"$75,000 and Over",Alzheimer's disease,9
+"$75,000 and Over",Cerebrovascular diseases,18
+"$75,000 and Over",Chronic lower respiratory diseases,11
+"$75,000 and Over",Diabetes mellitus,8
+"$75,000 and Over",Disease of heart,68
+"$75,000 and Over",Influenza and pneumonia,3
+"$75,000 and Over",Malignant neoplasm,137
+"$75,000 and Over","Nephritis, nephrotic syndrome and nephrosis",11
+Don't know,Accidents (unintentional injuries),3
+Don't know,All other causes (residual),62
+Don't know,Alzheimer's disease,4
+Don't know,Cerebrovascular diseases,9
+Don't know,Chronic lower respiratory diseases,4
+Don't know,Diabetes mellitus,2
+Don't know,Disease of heart,28
+Don't know,Influenza and pneumonia,5
+Don't know,Malignant neoplasm,18
+Don't know,"Nephritis, nephrotic syndrome and nephrosis",2
+Refused,Accidents (unintentional injuries),2
+Refused,All other causes (residual),62
+Refused,Alzheimer's disease,1
+Refused,Cerebrovascular diseases,6
+Refused,Chronic lower respiratory diseases,4
+Refused,Diabetes mellitus,4
+Refused,Disease of heart,25
+Refused,Influenza and pneumonia,5
+Refused,Malignant neoplasm,28
+Refused,"Nephritis, nephrotic syndrome and nephrosis",3
+"Under $20,000",Accidents (unintentional injuries),7
+"Under $20,000",All other causes (residual),71
+"Under $20,000",Alzheimer's disease,3
+"Under $20,000",Cerebrovascular diseases,7
+"Under $20,000",Chronic lower respiratory diseases,5
+"Under $20,000",Diabetes mellitus,6
+"Under $20,000",Disease of heart,23
+"Under $20,000",Influenza and pneumonia,4
+"Under $20,000",Malignant neoplasm,29
+"Under $20,000","Nephritis, nephrotic syndrome and nephrosis",5

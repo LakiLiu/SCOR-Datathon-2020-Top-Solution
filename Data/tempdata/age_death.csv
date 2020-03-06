@@ -1,0 +1,509 @@
+age_follow_up_end,ucod_leading,num_deaths
+19,Accidents (unintentional injuries),1
+20,Accidents (unintentional injuries),4
+20,All other causes (residual),3
+21,Accidents (unintentional injuries),4
+21,All other causes (residual),6
+22,Accidents (unintentional injuries),5
+22,All other causes (residual),1
+23,Accidents (unintentional injuries),1
+23,All other causes (residual),2
+23,Disease of heart,1
+23,Malignant neoplasm,3
+24,Accidents (unintentional injuries),4
+24,All other causes (residual),7
+24,Malignant neoplasm,1
+25,Accidents (unintentional injuries),2
+25,All other causes (residual),3
+26,Accidents (unintentional injuries),9
+26,All other causes (residual),13
+27,Accidents (unintentional injuries),2
+27,All other causes (residual),8
+27,Disease of heart,1
+28,Accidents (unintentional injuries),3
+28,All other causes (residual),9
+28,Cerebrovascular diseases,1
+28,Malignant neoplasm,1
+29,Accidents (unintentional injuries),3
+29,All other causes (residual),12
+29,Influenza and pneumonia,1
+29,Malignant neoplasm,1
+30,Accidents (unintentional injuries),5
+30,All other causes (residual),7
+30,Cerebrovascular diseases,1
+30,Diabetes mellitus,1
+30,Malignant neoplasm,2
+31,Accidents (unintentional injuries),5
+31,All other causes (residual),5
+31,Cerebrovascular diseases,1
+31,Malignant neoplasm,1
+32,Accidents (unintentional injuries),6
+32,All other causes (residual),5
+32,Disease of heart,2
+32,Malignant neoplasm,1
+33,Accidents (unintentional injuries),2
+33,All other causes (residual),11
+33,Malignant neoplasm,5
+34,Accidents (unintentional injuries),2
+34,All other causes (residual),7
+34,Cerebrovascular diseases,1
+34,Malignant neoplasm,2
+35,Accidents (unintentional injuries),4
+35,All other causes (residual),5
+35,Disease of heart,2
+35,Malignant neoplasm,3
+36,Accidents (unintentional injuries),7
+36,All other causes (residual),12
+36,Malignant neoplasm,3
+37,Accidents (unintentional injuries),2
+37,All other causes (residual),7
+37,Cerebrovascular diseases,1
+37,Disease of heart,2
+37,Influenza and pneumonia,1
+37,Malignant neoplasm,3
+38,All other causes (residual),7
+38,Malignant neoplasm,4
+39,Accidents (unintentional injuries),4
+39,All other causes (residual),12
+39,Disease of heart,1
+39,Malignant neoplasm,6
+40,Accidents (unintentional injuries),2
+40,All other causes (residual),5
+40,Disease of heart,1
+40,Influenza and pneumonia,1
+40,Malignant neoplasm,4
+41,Accidents (unintentional injuries),6
+41,All other causes (residual),8
+41,Cerebrovascular diseases,1
+41,Disease of heart,6
+41,Malignant neoplasm,3
+42,Accidents (unintentional injuries),3
+42,All other causes (residual),11
+42,Cerebrovascular diseases,1
+42,Diabetes mellitus,2
+42,Influenza and pneumonia,1
+42,Malignant neoplasm,3
+43,Accidents (unintentional injuries),3
+43,All other causes (residual),12
+43,Diabetes mellitus,1
+43,Influenza and pneumonia,1
+43,Malignant neoplasm,3
+44,Accidents (unintentional injuries),4
+44,All other causes (residual),11
+44,Cerebrovascular diseases,1
+44,Diabetes mellitus,2
+44,Disease of heart,4
+44,Malignant neoplasm,5
+45,All other causes (residual),11
+45,Cerebrovascular diseases,1
+45,Diabetes mellitus,1
+45,Disease of heart,4
+45,Malignant neoplasm,8
+46,Accidents (unintentional injuries),7
+46,All other causes (residual),11
+46,Disease of heart,2
+46,Influenza and pneumonia,1
+46,Malignant neoplasm,2
+47,Accidents (unintentional injuries),1
+47,All other causes (residual),12
+47,Cerebrovascular diseases,1
+47,Disease of heart,4
+47,Malignant neoplasm,3
+48,Accidents (unintentional injuries),1
+48,All other causes (residual),12
+48,Cerebrovascular diseases,1
+48,Disease of heart,8
+48,Malignant neoplasm,4
+49,Accidents (unintentional injuries),3
+49,All other causes (residual),15
+49,Disease of heart,4
+49,Malignant neoplasm,14
+50,All other causes (residual),16
+50,Cerebrovascular diseases,2
+50,Chronic lower respiratory diseases,1
+50,Diabetes mellitus,1
+50,Disease of heart,7
+50,Malignant neoplasm,6
+51,Accidents (unintentional injuries),1
+51,All other causes (residual),14
+51,Diabetes mellitus,1
+51,Disease of heart,2
+51,Influenza and pneumonia,1
+51,Malignant neoplasm,12
+51,"Nephritis, nephrotic syndrome and nephrosis",1
+52,Accidents (unintentional injuries),2
+52,All other causes (residual),20
+52,Cerebrovascular diseases,1
+52,Disease of heart,5
+52,Influenza and pneumonia,1
+52,Malignant neoplasm,14
+53,Accidents (unintentional injuries),1
+53,All other causes (residual),19
+53,Cerebrovascular diseases,1
+53,Chronic lower respiratory diseases,1
+53,Diabetes mellitus,1
+53,Disease of heart,5
+53,Malignant neoplasm,8
+53,"Nephritis, nephrotic syndrome and nephrosis",1
+54,Accidents (unintentional injuries),3
+54,All other causes (residual),17
+54,Cerebrovascular diseases,1
+54,Disease of heart,9
+54,Malignant neoplasm,15
+55,Accidents (unintentional injuries),3
+55,All other causes (residual),18
+55,Cerebrovascular diseases,2
+55,Chronic lower respiratory diseases,1
+55,Disease of heart,8
+55,Malignant neoplasm,23
+56,Accidents (unintentional injuries),1
+56,All other causes (residual),21
+56,Cerebrovascular diseases,1
+56,Chronic lower respiratory diseases,1
+56,Disease of heart,9
+56,Malignant neoplasm,19
+57,All other causes (residual),23
+57,Cerebrovascular diseases,1
+57,Chronic lower respiratory diseases,1
+57,Diabetes mellitus,2
+57,Disease of heart,4
+57,Malignant neoplasm,16
+57,"Nephritis, nephrotic syndrome and nephrosis",3
+58,Accidents (unintentional injuries),1
+58,All other causes (residual),20
+58,Cerebrovascular diseases,3
+58,Chronic lower respiratory diseases,2
+58,Diabetes mellitus,3
+58,Disease of heart,10
+58,Influenza and pneumonia,1
+58,Malignant neoplasm,8
+58,"Nephritis, nephrotic syndrome and nephrosis",2
+59,Accidents (unintentional injuries),2
+59,All other causes (residual),19
+59,Cerebrovascular diseases,1
+59,Chronic lower respiratory diseases,2
+59,Diabetes mellitus,1
+59,Disease of heart,5
+59,Malignant neoplasm,14
+59,"Nephritis, nephrotic syndrome and nephrosis",2
+60,Accidents (unintentional injuries),2
+60,All other causes (residual),13
+60,Cerebrovascular diseases,1
+60,Diabetes mellitus,1
+60,Disease of heart,12
+60,Influenza and pneumonia,1
+60,Malignant neoplasm,17
+61,Accidents (unintentional injuries),2
+61,All other causes (residual),23
+61,Cerebrovascular diseases,2
+61,Chronic lower respiratory diseases,2
+61,Diabetes mellitus,1
+61,Disease of heart,8
+61,Malignant neoplasm,14
+61,"Nephritis, nephrotic syndrome and nephrosis",3
+62,Accidents (unintentional injuries),2
+62,All other causes (residual),26
+62,Chronic lower respiratory diseases,3
+62,Diabetes mellitus,1
+62,Disease of heart,8
+62,Influenza and pneumonia,1
+62,Malignant neoplasm,16
+63,All other causes (residual),22
+63,Cerebrovascular diseases,1
+63,Chronic lower respiratory diseases,3
+63,Diabetes mellitus,2
+63,Disease of heart,5
+63,Malignant neoplasm,20
+64,All other causes (residual),34
+64,Alzheimer's disease,1
+64,Chronic lower respiratory diseases,3
+64,Diabetes mellitus,2
+64,Disease of heart,11
+64,Influenza and pneumonia,1
+64,Malignant neoplasm,32
+65,Accidents (unintentional injuries),1
+65,All other causes (residual),20
+65,Cerebrovascular diseases,1
+65,Chronic lower respiratory diseases,3
+65,Diabetes mellitus,1
+65,Disease of heart,11
+65,Influenza and pneumonia,1
+65,Malignant neoplasm,23
+65,"Nephritis, nephrotic syndrome and nephrosis",1
+66,Accidents (unintentional injuries),1
+66,All other causes (residual),26
+66,Cerebrovascular diseases,3
+66,Chronic lower respiratory diseases,3
+66,Diabetes mellitus,1
+66,Disease of heart,16
+66,Influenza and pneumonia,1
+66,Malignant neoplasm,25
+67,Accidents (unintentional injuries),4
+67,All other causes (residual),29
+67,Cerebrovascular diseases,3
+67,Chronic lower respiratory diseases,3
+67,Diabetes mellitus,3
+67,Disease of heart,9
+67,Influenza and pneumonia,1
+67,Malignant neoplasm,32
+68,Accidents (unintentional injuries),1
+68,All other causes (residual),32
+68,Cerebrovascular diseases,2
+68,Diabetes mellitus,1
+68,Disease of heart,12
+68,Malignant neoplasm,35
+68,"Nephritis, nephrotic syndrome and nephrosis",1
+69,Accidents (unintentional injuries),1
+69,All other causes (residual),37
+69,Alzheimer's disease,1
+69,Cerebrovascular diseases,1
+69,Chronic lower respiratory diseases,4
+69,Diabetes mellitus,1
+69,Disease of heart,19
+69,Influenza and pneumonia,2
+69,Malignant neoplasm,34
+69,"Nephritis, nephrotic syndrome and nephrosis",2
+70,Accidents (unintentional injuries),3
+70,All other causes (residual),28
+70,Cerebrovascular diseases,5
+70,Chronic lower respiratory diseases,4
+70,Diabetes mellitus,6
+70,Disease of heart,28
+70,Malignant neoplasm,30
+70,"Nephritis, nephrotic syndrome and nephrosis",4
+71,All other causes (residual),39
+71,Cerebrovascular diseases,4
+71,Chronic lower respiratory diseases,4
+71,Diabetes mellitus,4
+71,Disease of heart,16
+71,Influenza and pneumonia,3
+71,Malignant neoplasm,32
+71,"Nephritis, nephrotic syndrome and nephrosis",1
+72,All other causes (residual),38
+72,Cerebrovascular diseases,1
+72,Chronic lower respiratory diseases,8
+72,Diabetes mellitus,4
+72,Disease of heart,29
+72,Influenza and pneumonia,3
+72,Malignant neoplasm,31
+72,"Nephritis, nephrotic syndrome and nephrosis",7
+73,Accidents (unintentional injuries),2
+73,All other causes (residual),38
+73,Alzheimer's disease,1
+73,Cerebrovascular diseases,9
+73,Chronic lower respiratory diseases,5
+73,Diabetes mellitus,2
+73,Disease of heart,23
+73,Influenza and pneumonia,3
+73,Malignant neoplasm,31
+73,"Nephritis, nephrotic syndrome and nephrosis",3
+74,Accidents (unintentional injuries),3
+74,All other causes (residual),43
+74,Alzheimer's disease,2
+74,Cerebrovascular diseases,1
+74,Chronic lower respiratory diseases,6
+74,Diabetes mellitus,9
+74,Disease of heart,26
+74,Influenza and pneumonia,2
+74,Malignant neoplasm,44
+74,"Nephritis, nephrotic syndrome and nephrosis",1
+75,All other causes (residual),44
+75,Alzheimer's disease,2
+75,Cerebrovascular diseases,4
+75,Chronic lower respiratory diseases,5
+75,Diabetes mellitus,1
+75,Disease of heart,24
+75,Influenza and pneumonia,2
+75,Malignant neoplasm,31
+75,"Nephritis, nephrotic syndrome and nephrosis",2
+76,Accidents (unintentional injuries),3
+76,All other causes (residual),49
+76,Alzheimer's disease,3
+76,Cerebrovascular diseases,10
+76,Chronic lower respiratory diseases,4
+76,Diabetes mellitus,7
+76,Disease of heart,37
+76,Influenza and pneumonia,1
+76,Malignant neoplasm,27
+76,"Nephritis, nephrotic syndrome and nephrosis",1
+77,Accidents (unintentional injuries),2
+77,All other causes (residual),44
+77,Alzheimer's disease,3
+77,Cerebrovascular diseases,1
+77,Chronic lower respiratory diseases,10
+77,Diabetes mellitus,8
+77,Disease of heart,30
+77,Influenza and pneumonia,3
+77,Malignant neoplasm,41
+77,"Nephritis, nephrotic syndrome and nephrosis",3
+78,All other causes (residual),51
+78,Alzheimer's disease,1
+78,Cerebrovascular diseases,6
+78,Chronic lower respiratory diseases,10
+78,Diabetes mellitus,6
+78,Disease of heart,32
+78,Influenza and pneumonia,3
+78,Malignant neoplasm,38
+78,"Nephritis, nephrotic syndrome and nephrosis",1
+79,Accidents (unintentional injuries),1
+79,All other causes (residual),59
+79,Alzheimer's disease,4
+79,Cerebrovascular diseases,12
+79,Chronic lower respiratory diseases,6
+79,Diabetes mellitus,4
+79,Disease of heart,24
+79,Influenza and pneumonia,3
+79,Malignant neoplasm,34
+79,"Nephritis, nephrotic syndrome and nephrosis",4
+80,Accidents (unintentional injuries),3
+80,All other causes (residual),52
+80,Alzheimer's disease,6
+80,Cerebrovascular diseases,11
+80,Chronic lower respiratory diseases,10
+80,Diabetes mellitus,8
+80,Disease of heart,33
+80,Influenza and pneumonia,2
+80,Malignant neoplasm,39
+80,"Nephritis, nephrotic syndrome and nephrosis",2
+81,Accidents (unintentional injuries),5
+81,All other causes (residual),143
+81,Alzheimer's disease,2
+81,Cerebrovascular diseases,13
+81,Chronic lower respiratory diseases,16
+81,Diabetes mellitus,10
+81,Disease of heart,99
+81,Influenza and pneumonia,8
+81,Malignant neoplasm,83
+81,"Nephritis, nephrotic syndrome and nephrosis",6
+82,Accidents (unintentional injuries),4
+82,All other causes (residual),181
+82,Alzheimer's disease,9
+82,Cerebrovascular diseases,16
+82,Chronic lower respiratory diseases,18
+82,Diabetes mellitus,9
+82,Disease of heart,81
+82,Influenza and pneumonia,7
+82,Malignant neoplasm,72
+82,"Nephritis, nephrotic syndrome and nephrosis",12
+83,Accidents (unintentional injuries),4
+83,All other causes (residual),196
+83,Alzheimer's disease,15
+83,Cerebrovascular diseases,25
+83,Chronic lower respiratory diseases,15
+83,Diabetes mellitus,3
+83,Disease of heart,82
+83,Influenza and pneumonia,7
+83,Malignant neoplasm,58
+83,"Nephritis, nephrotic syndrome and nephrosis",8
+84,Accidents (unintentional injuries),1
+84,All other causes (residual),174
+84,Alzheimer's disease,10
+84,Cerebrovascular diseases,18
+84,Chronic lower respiratory diseases,14
+84,Diabetes mellitus,8
+84,Disease of heart,75
+84,Influenza and pneumonia,10
+84,Malignant neoplasm,64
+84,"Nephritis, nephrotic syndrome and nephrosis",6
+85,Accidents (unintentional injuries),2
+85,All other causes (residual),149
+85,Alzheimer's disease,20
+85,Cerebrovascular diseases,21
+85,Chronic lower respiratory diseases,9
+85,Diabetes mellitus,10
+85,Disease of heart,48
+85,Influenza and pneumonia,11
+85,Malignant neoplasm,43
+85,"Nephritis, nephrotic syndrome and nephrosis",1
+86,Accidents (unintentional injuries),2
+86,All other causes (residual),147
+86,Alzheimer's disease,13
+86,Cerebrovascular diseases,15
+86,Chronic lower respiratory diseases,14
+86,Diabetes mellitus,8
+86,Disease of heart,57
+86,Influenza and pneumonia,9
+86,Malignant neoplasm,47
+86,"Nephritis, nephrotic syndrome and nephrosis",8
+87,Accidents (unintentional injuries),5
+87,All other causes (residual),118
+87,Alzheimer's disease,12
+87,Cerebrovascular diseases,14
+87,Chronic lower respiratory diseases,12
+87,Diabetes mellitus,3
+87,Disease of heart,40
+87,Influenza and pneumonia,5
+87,Malignant neoplasm,31
+87,"Nephritis, nephrotic syndrome and nephrosis",6
+88,Accidents (unintentional injuries),4
+88,All other causes (residual),80
+88,Alzheimer's disease,5
+88,Cerebrovascular diseases,5
+88,Chronic lower respiratory diseases,11
+88,Diabetes mellitus,6
+88,Disease of heart,35
+88,Influenza and pneumonia,6
+88,Malignant neoplasm,26
+88,"Nephritis, nephrotic syndrome and nephrosis",3
+89,Accidents (unintentional injuries),4
+89,All other causes (residual),78
+89,Alzheimer's disease,7
+89,Cerebrovascular diseases,11
+89,Chronic lower respiratory diseases,11
+89,Diabetes mellitus,7
+89,Disease of heart,29
+89,Influenza and pneumonia,4
+89,Malignant neoplasm,18
+89,"Nephritis, nephrotic syndrome and nephrosis",6
+90,Accidents (unintentional injuries),6
+90,All other causes (residual),42
+90,Alzheimer's disease,8
+90,Cerebrovascular diseases,7
+90,Chronic lower respiratory diseases,6
+90,Diabetes mellitus,2
+90,Disease of heart,20
+90,Influenza and pneumonia,3
+90,Malignant neoplasm,17
+90,"Nephritis, nephrotic syndrome and nephrosis",6
+91,Accidents (unintentional injuries),6
+91,All other causes (residual),51
+91,Alzheimer's disease,14
+91,Cerebrovascular diseases,7
+91,Chronic lower respiratory diseases,4
+91,Diabetes mellitus,4
+91,Disease of heart,12
+91,Influenza and pneumonia,2
+91,Malignant neoplasm,15
+91,"Nephritis, nephrotic syndrome and nephrosis",1
+92,Accidents (unintentional injuries),1
+92,All other causes (residual),26
+92,Alzheimer's disease,5
+92,Cerebrovascular diseases,5
+92,Chronic lower respiratory diseases,3
+92,Diabetes mellitus,1
+92,Disease of heart,5
+92,Influenza and pneumonia,2
+92,Malignant neoplasm,7
+92,"Nephritis, nephrotic syndrome and nephrosis",2
+93,Accidents (unintentional injuries),1
+93,All other causes (residual),16
+93,Alzheimer's disease,1
+93,Cerebrovascular diseases,2
+93,Chronic lower respiratory diseases,5
+93,Disease of heart,3
+93,Malignant neoplasm,2
+93,"Nephritis, nephrotic syndrome and nephrosis",3
+94,All other causes (residual),15
+94,Alzheimer's disease,2
+94,Chronic lower respiratory diseases,2
+94,Diabetes mellitus,1
+94,Disease of heart,6
+95,All other causes (residual),9
+95,Alzheimer's disease,1
+95,Disease of heart,1
+95,Influenza and pneumonia,1
+95,Malignant neoplasm,1
+95,"Nephritis, nephrotic syndrome and nephrosis",1
+96,All other causes (residual),2
+96,Alzheimer's disease,1
+96,Malignant neoplasm,2
